@@ -5,7 +5,7 @@ Created by Caleb Petrus as a learning project for Python and Github
 
 Lets the user type a street in the console and it will pull all names, addresses and numbers from paginebianche then put them in a CSV file 
 
-##Usage##
+## Usage
 
 ```
 pip install beautifulsoup4
